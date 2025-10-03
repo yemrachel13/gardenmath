@@ -1443,8 +1443,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/desktopwallpaperjunglesafarijungletheme.jpg?1759469488612", id:"desktopwallpaperjunglesafarijungletheme"},
-		{src:"images/next.png?1759469488612", id:"next"}
+		{src:"images/desktopwallpaperjunglesafarijungletheme.jpg", id:"desktopwallpaperjunglesafarijungletheme"},
+		{src:"images/next.png", id:"next"}
 	],
 	preloads: []
 };
